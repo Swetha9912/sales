@@ -1,5 +1,5 @@
 package com.baseclas;
 
-public class initcase {
+public class init22 {
 
 }
