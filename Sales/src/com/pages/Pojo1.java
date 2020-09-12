@@ -1,6 +1,6 @@
-package com.tests;
+package com.pages;
 
-public class folder22 {
+public class Pojo1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
