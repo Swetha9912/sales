@@ -1,0 +1,10 @@
+package com.tests;
+
+public class new11 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
